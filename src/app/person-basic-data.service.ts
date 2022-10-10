@@ -17,7 +17,7 @@ export class PersonBasicDataService {
         RESOURCE_BIRTHDATE: '12/11/1964',
         RESOURCE_GENDER: 'M',
         RESOURCE_MIDDLE_NAME: '',
-        RESOURCE_NAME: 'Luigi',
+        RESOURCE_NAME: 'Luca',
         RESOURCE_SURNAME: 'Berloni',
       },
     },
